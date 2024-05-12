@@ -1,0 +1,3 @@
+#SPRING-BOOT-JWT-AUTH-APP
+## APPLICATION SWAGGER DOCUMENTATION
+http://localhost:8080/swagger-ui/index.html
