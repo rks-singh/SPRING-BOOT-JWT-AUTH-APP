@@ -60,7 +60,7 @@ public class SecurityConfig {
                                 .and()
                                 //register filter from 2nd request.
                                 .addFilterBefore(securityFilter, UsernamePasswordAuthenticationFilter.class));
-                    } catch (Exception e) {
+                    } catch (Exception e) { 
                         e.printStackTrace();
                     }
                 });
